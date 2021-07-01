@@ -14,6 +14,6 @@ print("It is good to meet you, " + myName)
 
 print("What is your age?")
 
-myage = input()
+myAge = input()
 
 print("Your age is " + myAge)
