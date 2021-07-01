@@ -1,19 +1,19 @@
 # errors in code:
-# line 10: no indent
-# line 14: double parenthesus at end
+# line 10, 14: no indent
 # line 20: 'myage' var not defined
+
 
 # CODE START #
 
-print("Hello world!")
+print("Hello World!")
 
-print("What is your name?")
+    print("What is your name?")
 
 myName = input()
 
-print("It is good to meet you, " + myName)
+    print("It is good to meet you, " + myName)
 
-print("What is your age?')
+print("What is your age?")
 
 myAge = input()
 
