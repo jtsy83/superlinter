@@ -7,7 +7,7 @@
 
 print("Hello world!")
 
-    print("What is your name?")
+print("What is your name?")
 
 _myName = input()
 
