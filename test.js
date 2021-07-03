@@ -1,4 +1,4 @@
-var myVar = 'hello ';
-var myVar2 = 'world';
-var myVar3 = myVar + myVar2;
-console.log (myVar3);
+let myVar = 'hello '
+let myVar2 = 'world'
+let myVar3 = myVar + myVar2
+console.log(myVar3);
